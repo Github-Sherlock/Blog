@@ -1,9 +1,2 @@
-https://github.com/Github-Sherlock/Blog/2022/08/05/repository/index/
-https://github.com/Github-Sherlock/Blog/2022/08/05/tags/index/
-https://github.com/Github-Sherlock/Blog/2022/08/05/books/index/
-https://github.com/Github-Sherlock/Blog/2022/08/05/about/index/
-https://github.com/Github-Sherlock/Blog/2022/08/05/categories/index/
-https://github.com/Github-Sherlock/Blog/2022/08/05/links/index/
-https://github.com/Github-Sherlock/Blog/404
 https://github.com/Github-Sherlock/Blog/2022/08/05/hello-world/
 https://github.com/Github-Sherlock/Blog
